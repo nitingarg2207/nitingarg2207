@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingarg2207&label=Profile%20views&color=0e75b6&style=flat" alt="nitingarg2207" /> </p>
 
-- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **react, c++, javascript**
 
